@@ -21,7 +21,7 @@ A multiplayer space combat game featuring various game modes including Deathmatc
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/space-combat.git
+git clone https://github.com/EchoSingh/space-combat.git
 cd space-combat
 ```
 
