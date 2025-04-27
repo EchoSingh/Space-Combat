@@ -37,7 +37,7 @@ export default {
     },
     alias: {
       'three/examples/jsm/controls/OrbitControls': 'three/examples/jsm/controls/OrbitControls.js',
-      'socket.io-client': 'socket.io-client/dist/socket.io.js'
+      'socket.io-client': 'socket.io-client/dist/socket.io.js' 
     }
   }
 }; 
